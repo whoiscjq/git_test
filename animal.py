@@ -4,7 +4,7 @@ def default():
     print("hello!")
 
 def cat():
-    print("meow")
+    print("meow!!!!")
 
 def dog():
     print("woof")
