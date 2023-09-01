@@ -16,6 +16,6 @@ def main():
         dog()
     else:
         default()
-
+#I like someone in the note
 if __name__=="__main__":
     main()
